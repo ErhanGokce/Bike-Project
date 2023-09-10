@@ -37,7 +37,7 @@ The project aims to empower the HR department with visualized human resources da
 
 ## About The Project
 
-![Screen Shot](<iframe src="https://app.vectary.com/p/5x7898ZZOW08CkblJfcxgy" frameborder="0" width="100%" height="480"></iframe>)
+![Screen Shot](https://media.discordapp.net/attachments/1136952500122046567/1150507396414832763/image.png?width=912&height=662)
 
 ★★★★★
 
